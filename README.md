@@ -1,2 +1,2 @@
-# login-mvvm-unit-testing
+# login-mvp
 Illustrates login using MVP pattern
