@@ -1,2 +1,2 @@
 # login-mvvm-unit-testing
-Illustrates the unit testing concepts for login behaviour using MVP pattern
+Illustrates login using MVP pattern
